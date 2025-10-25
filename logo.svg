@@ -1,0 +1,8 @@
+<svg width="180" height="28" viewBox="0 0 180 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="180" height="28" rx="6" fill="#0b1020"/>
+<g transform="translate(8,4)">
+  <rect x="0" y="4" width="10" height="16" rx="3" fill="#1B9C85"/>
+  <rect x="6" y="2" width="10" height="20" rx="3" fill="#2CD3B8" opacity="0.3"/>
+  <text x="24" y="16" fill="#E6ECFF" font-size="14" font-family="Arial" font-weight="700">Pulse Growth</text>
+</g>
+</svg>
